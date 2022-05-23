@@ -13,8 +13,8 @@
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=joshep2728&count_private=true&include_all_commits=true8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshep2728&layout=compact8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </div>
 
 - 📫 How to reach me **phillips981122@outlook.com**
