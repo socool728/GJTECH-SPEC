@@ -10,7 +10,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshep2728&layout=compact&theme=gruvbox" />
 
 
-- 📫 How to reach me **phillips981122@outlook.com**
+- 📫 How to reach me **superstardev2728@gmail.com**
 
 
 
