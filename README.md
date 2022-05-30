@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Blockchain developer.</h1>
+<h1 align="center">Hi 👋, We are developing Blockchain.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshep2728&label=🏆%20Profile%20views&color=0e75b6&style=flat" alt="joshep2728" />
 
