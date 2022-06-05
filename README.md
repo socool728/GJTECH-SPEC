@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, We are developing Blockchain.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Moore-Wunsch&label=🏆%20Profile%20views&color=0e75b6&style=flat" alt="Moore-Wunsch" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Moore-Wunsch&label=🏆%20Profile%20views&color=0e75b6&style=for-the-badge" alt="Moore-Wunsch" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Moore-Wunsch&column=8&theme=gruvbox&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Moore-Wunsch&column=8&theme=compact&no-frame=true"/>
 
 ---
 
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Moore-Wunsch&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moore-Wunsch&layout=compact&theme=gruvbox" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Moore-Wunsch&count_private=true&include_all_commits=true&show_icons=true&theme=compact" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moore-Wunsch&layout=compact&theme=compact" />
 
 
 - 📫 How to reach me **superstardev2728@gmail.com**
