@@ -10,7 +10,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moore-Wunsch&layout=compact&theme=compact" />
 
 
-- 📫 How to reach me **superstardev2728@gmail.com**
 
 
 
