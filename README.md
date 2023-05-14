@@ -15,7 +15,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GJTECH-SPEC&layout=compact&theme=algolia" alt="GJTECH-SPEC" /></a> </p>
 
-<div class="dispaly:flex;">
+<div class="dispaly:block;">
 	<a href="https://github.com/GJTECH-SPEC"><img src="https://github-profile-trophy.vercel.app/?username=GJTECH-SPEC&theme=onedark" alt="GJTECH-SPEC" /></a>
 </div>
 
