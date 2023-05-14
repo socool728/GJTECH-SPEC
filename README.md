@@ -1,4 +1,4 @@
-<h1 align="center">Top Rated Plus Full-Stack Engineer
+<h1 align="center">Top Rated Plus Full-Stack Engineer<br/>
 
   
   <p align="center" class="display:flex;">
@@ -8,10 +8,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <br/>
    <a href="https://github.com/GJTECH-SPEC"><img alt="GJTECH-SPEC's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GJTECH-SPEC&custom_title=GJTECH-SPEC's%20Contribution%20Graph&theme=react-dark" /></a>
