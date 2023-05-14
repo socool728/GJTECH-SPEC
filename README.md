@@ -1,4 +1,4 @@
-<h1 align="center">Top Rated Plus Full-Stack Engineer<br/>
+<h1 align="center">Top Rated Plus Full-Stack Engineer</h1>
 
   
   <p align="center" class="display:flex;">
